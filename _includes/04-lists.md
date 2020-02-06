@@ -1,1 +1,5 @@
-Bikes, guitars, weights, swords, games.
+- Bike
+- guitar 
+- weight 
+- swords
+- games
