@@ -1,0 +1,5 @@
+- Bike
+- guitar 
+- weight 
+- swords
+- games
